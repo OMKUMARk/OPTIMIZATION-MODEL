@@ -74,5 +74,5 @@ Deploy on cloud platforms for business use
 
 #output#
 
-
+<img width="1600" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f9ace6a8-34fb-4e92-8b80-0234a39e4101" />
 
